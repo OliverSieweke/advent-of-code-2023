@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "Advent of Code 2023",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverSieweke/advent-of-code-2023.git"
+  },
+  "keywords": [
+    "Advent of Code",
+    "2021",
+    "TypeScript"
+  ],
+  "author": "Oliver Sieweke",
+  "license": "Unlicense",
+  "homepage": "https://github.com/OliverSieweke/advent-of-code-2023#readme",
+  "engines": {
+    "node": ">=20.10.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.2",
+    "@types/node": "^20.10.2",
+    "typescript": "^5.3.2"
+  }
+}
